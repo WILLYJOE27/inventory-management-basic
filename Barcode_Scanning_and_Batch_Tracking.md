@@ -1,3 +1,4 @@
+MATRIC NUMBER: F/ND/25/3210077
 # Barcode Scanning
 
 Barcode scanning is an inventory feature that uses barcode scanners or mobile cameras to read product barcodes and automatically identify items in the system.
